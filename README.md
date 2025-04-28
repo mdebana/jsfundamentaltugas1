@@ -1,2 +1,2 @@
-# Java Fundamental - Tugas 1
+# Java Fundamental - Tugas
 Mochamad Deban Azaria
