@@ -1,2 +1,2 @@
-# jsfundamentaltugas1
-Javascript Fundamental - Tugas 1
+# Java Fundamental - Tugas 1
+Mochamad Deban Azaria
